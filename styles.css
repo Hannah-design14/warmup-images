@@ -23,7 +23,7 @@ body {
 
 .site-id {
     padding: 20px;
-    margin: 
+    margin: auto;
 }
 
 .min-image {
@@ -41,5 +41,5 @@ body {
 .max-width-grid {
     max-width: 800px;
     margin: auto;
-    
+
 }
